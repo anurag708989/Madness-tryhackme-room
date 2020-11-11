@@ -1,14 +1,14 @@
-#madness
+# madness
  
 
-nmap:
+## nmap:
 two ports are open
 22 ssh
 80 http
 
 
 
-gobuster shows no hidden directry
+### gobuster shows no hidden directry
 
 
 
