@@ -2,6 +2,7 @@
 madness tryhackme room somewhat challenging for me and still need root flag 
 # madness
  
+ ![](madness_image.jpg)
 
 ## nmap:
 two ports are open
@@ -14,9 +15,9 @@ two ports are open
 
 
 
-but find a hidden directry by converting corrupted png file to jpeg file
+### but find a hidden directry by converting corrupted png file to jpeg file
 /th1s_1s_h1dd3n
-
+![](thm.jpeg)
 source code of this directry
 <html>
 <head>
