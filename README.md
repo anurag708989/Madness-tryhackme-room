@@ -13,7 +13,7 @@ two ports are open
 
 ### gobuster shows no hidden directry
 
-
+![](modifying_png_to_jpeg.png)
 
 ### but find a hidden directry by converting corrupted png file to jpeg file
 /th1s_1s_h1dd3n
